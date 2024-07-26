@@ -15,7 +15,7 @@ Clone or Download the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-repo/university-course-management-system.git
+git clone https://github.com/minasamy01/OOP_Python_Project/tree/main
 cd university-course-management-system
 Run the Program:
 
