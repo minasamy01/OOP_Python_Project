@@ -1,10 +1,17 @@
-This project demonstrates various image processing techniques using Python 🐍, leveraging libraries like OpenCV and Matplotlib 📊. The focus of this project is on processing images through multiple steps, including color space conversion, histogram equalization, contrast and brightness adjustment, and histogram analysis.
+Educational Management System 🎓📚
 
-The key features include:
+This object-oriented project is designed to manage various users (students, doctors) and courses in an educational setting, providing seamless registration, course management, and grade tracking. Dive into a world of efficient course enrollment, assignment submission, and grades reporting—all handled with the power of Python and OOP principles!
 
-Image Display 🖼️: Visualizing the original and modified images side by side to compare the effects of applied transformations.
-Histogram Calculation 📈: Plotting histograms of image intensities to analyze the distribution of pixel values in both the original and processed images.
-Color Space Conversion 🌈: Converting images from BGR (OpenCV default) to RGB for proper visualization in Matplotlib.
-Brightness & Contrast Adjustment 🔆🔲: Modifying the brightness and contrast of images using simple scaling techniques and visualizing the effects on both the image and its histogram.
-Histogram Equalization 🔄: Applying histogram equalization to improve the contrast of grayscale images.
-The project provides a hands-on approach to image manipulation and analysis, using histograms to better understand how pixel intensities change during various processing steps.
+✨ Key Features:
+
+User Roles & Management – Create, manage, and interact with different users: Students can enroll in courses, view assignments, and submit solutions, while Doctors manage the courses and assignments.
+Course Enrollment & Management – Students can register for courses, view course details, and track assignments, while doctors can assign and manage coursework.
+Interactive GUI-like Menu – Navigate through an easy-to-use menu system for logging in, signing up, and accessing features such as course listings, grades reports, and assignments.
+Assignment Submission – Effortlessly submit assignments for enrolled courses and track your progress in each subject.
+Grades Report – View grades and the status of submitted assignments for all registered courses, including detailed performance metrics.
+Data Integrity & Security – Keep user credentials secure with password management and ensure the data remains accurate and up to date.
+🔧 Tech Stack: Python, OOP, Random (for grades and assignments), Text-based Menu
+
+🔒 This project ensures that only authorized users (students or doctors) can access their respective functionalities, providing a structured and secure system for educational institutions.
+
+🎓 Experience the simplicity and power of managing courses, students, and assignments all within a user-friendly system!
